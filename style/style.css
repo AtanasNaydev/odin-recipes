@@ -1,0 +1,52 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgrey;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:orange;
+}
+a:hover{
+    color:blue;
+}
+a:active{
+    color:blue;
+}
+h1,h2,h3{
+    color:orange;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+h1{
+    font-size:28px; 
+    text-align: center; 
+}
+h2{
+    font-size:24px;
+}
+h3{
+    font-size:20px;
+}
+p{
+    font-size:16px;
+}
+ul{
+    margin: 2px;
+}
+ol{
+    margin:2px;
+}
+img{
+   height: auto;
+   
+}
+.salad{
+    height:512px;
+   width: 512px;
+}
